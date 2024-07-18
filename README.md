@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @akshaayyh
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Game Development and buil
+- 💞️ I've made many projects on Uinty .Have a look on my portfolio -https://akshayyh.itch.io/
+- 📫 How to reach me ...https://www.linkedin.com/in/akshay-kumar-118426243/
 
 <!---
 akshaayyh/akshaayyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
